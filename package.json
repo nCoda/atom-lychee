@@ -1,0 +1,18 @@
+{
+  "name": "lychee",
+  "main": "./lib/lychee",
+  "version": "0.0.0",
+  "description": "Manage distinct representations of an LMEI project.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "lychee:toggle"
+  },
+  "repository": "https://github.com/nCoda/atom-lychee",
+  "license": "LGPLv3",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

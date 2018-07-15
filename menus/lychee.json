@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lychee",
+        "command": "lychee:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lychee",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lychee:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
