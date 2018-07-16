@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "lychee:toggle"
   },
-  "repository": "https://github.com/nCoda/atom-lychee",
+  "repository": "https://github.com/nCoda/atom-lychee.git",
   "license": "LGPLv3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
